@@ -1,4 +1,4 @@
-﻿namespace Library
+﻿namespace LibConsole
 {
     using System;
 
